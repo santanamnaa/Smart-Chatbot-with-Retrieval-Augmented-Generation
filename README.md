@@ -1,5 +1,3 @@
-# Smart-Chatbot-with-Retrieval-Augmented-Generation
-
 # Chatbot RAG dengan TiDB Cloud + Ollama (DeepSeek)
 chatbot **anti-halusinasi** dengan pendekatan **Retrieval-Augmented Generation (RAG)**.  
 Chatbot ini menggabungkan **Large Language Model (LLM)** (via Ollama/DeepSeek) dengan **knowledge base** yang kita simpan di **TiDB Cloud** menggunakan vector search.
